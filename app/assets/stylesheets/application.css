@@ -69,3 +69,13 @@
 .Navbar__Link-toggle {
   display: none;
 }
+
+
+.flex-item {
+    display:flex;
+    align-items: center;
+}
+.flex-item img{
+    flex-grow:0;
+    flex-shrink:0;
+}
