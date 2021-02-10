@@ -4,4 +4,7 @@ class StaticPagesController < ApplicationController
 
   def info
   end
+
+  def misbins
+  end
 end
