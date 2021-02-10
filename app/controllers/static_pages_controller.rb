@@ -7,4 +7,7 @@ class StaticPagesController < ApplicationController
 
   def misbins
   end
+
+  def four_forties
+  end
 end
